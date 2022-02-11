@@ -23,3 +23,14 @@ C:\Users\Chandia\Downloads\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp
 C:\Users\Chandia\Downloads\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.CoreCompileInputs.cache
 C:\Users\Chandia\Downloads\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
 C:\Users\Chandia\Downloads\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.AssemblyReference.cache
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.SuggestedBindingRedirects.cache
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.GenerateResource.cache
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.CoreCompileInputs.cache
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\CLASES\DesarrolloSoftwawe\Programación\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
